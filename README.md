@@ -4,18 +4,15 @@ This repository includes a variety of my projects, either in still in developmen
 Please enjoy...
 
 ## Projects Directories
+Directories | Description
+----------- | -----------
+[1. Kicks Citi](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/1.%20Kicks%20Citi%20Mobile%20App) | An ecommerce sneakers store app
+[2. Ledger Score](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/2.%20Ledger%20Score%20Loan%20App) | A crypto loan app, with crypto wallets and real time coin price tracking
+[3. Gigmoni](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/3.%20Gigmoni%20Mobile%20App) | An international payment solution
+[4. Fricaa](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/4.%20Fricca%20Mobile%20App) | A social media platform with real time messaging, video sharing and live streaming
+[5. Educura](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/5.%20Educura%20Mobile%20App) | This app helps teachers organise their work and connects parents to teachers
+[6. Galb Logistics](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/6.%20Galb%20Logistics%20Mobile%20App) | A product delivery company mobile app with product tracking
 
-[1. Kicks Citi](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/1.%20Kicks%20Citi%20Mobile%20App)
-
-[2. Ledger Score](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/2.%20Ledger%20Score%20Loan%20App)
-
-[3. Gigmoni](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/3.%20Gigmoni%20Mobile%20App)
-
-[4. Fricaa](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/4.%20Fricca%20Mobile%20App)
-
-[5. Educura](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/5.%20Educura%20Mobile%20App)
-
-[6. Galb Logistics](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/6.%20Galb%20Logistics%20Mobile%20App)
 
 ## Projects Preview
 <p float="left">
