@@ -1,5 +1,8 @@
 # Kicks Citi
 ### An online footwear store
+> I was the app's sole fullstack developer
+> I also designed the UI myself
+
 ![App Screens](IMG/longmockup.png)
 ## Features
 - Add items to your cart or favorites

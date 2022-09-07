@@ -1,6 +1,6 @@
 
 # Educura
-### This app links parents and teachers while assisting teachers in organizing their work.
+### This app links parents and teachers while assisting teachers and admins organize their work.
 
 ## Features
 
