@@ -18,7 +18,9 @@
 
 ## How To Install
 This app was built for a client and is not live yet, although already completed.
-
+<br/>
+<br/>
+Github Repo[Private]
 <p float="left">
 <img src="IMG/ledgerscore.png" width="300" height="550">
 <img src="IMG/coinpage.png" width="300" height="550">

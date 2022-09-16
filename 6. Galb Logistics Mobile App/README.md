@@ -18,7 +18,10 @@
 - Google Maps
 ## How To Install
 This is a personal side project and is not live yet
-
+<br/>
+<br/>
+[Github Repo](
+https://github.com/QICSoftwares/Galb-Logistics)
 
 <p float="left">
 <img src="IMG/galb.png" width="300" height="550">

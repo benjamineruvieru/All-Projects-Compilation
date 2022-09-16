@@ -21,6 +21,10 @@
 
 ## How To Install
 You can get the app on [play store](https://play.google.com/store/apps/details?id=com.my.ben.kicksciti)
+<br/>
+<br/>
+[Github Repo](
+https://github.com/benjamineruvieru/kicksciti)
 
 <p float="left">
 <img src="IMG/kicksciti.png" width="300" height="550">
