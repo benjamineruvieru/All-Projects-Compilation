@@ -40,7 +40,7 @@ Download the app today and share with me what you think.
 - WebRTC
 
 ## How To Install
-You can get the app on [play store]('https://drive.google.com/file/d/1PAptM7bXC0IewGYJCGKHofVUPlYMFLNx/view?usp=sharing')
+You can get the app on [play store](https://drive.google.com/file/d/1PAptM7bXC0IewGYJCGKHofVUPlYMFLNx/view?usp=sharing)
 <br/>
 <br/>
 
