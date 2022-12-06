@@ -2,8 +2,10 @@
 ### Securely chat and share unlimited files serverlessly with WebRTC peer-to-peer technology, available now on the app store.
 > I was the app's sole fullstack developer
 > I also designed the UI myself
-
-![Start Chat](IMG/start.gif)
+<br/>
+<br/>
+### Server less chat
+![Chat](IMG/chat.gif)
 
 ## Features
 - WebRTC peer-to-peer technology for real-time communication
