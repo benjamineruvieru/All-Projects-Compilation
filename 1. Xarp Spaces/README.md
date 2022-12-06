@@ -1,17 +1,26 @@
 # Xarp Spaces
 ### Securely chat and share unlimited files serverlessly with WebRTC peer-to-peer technology, available now on the app store.
-> I was the app's sole fullstack developer
-> I also designed the UI myself
+
 <br/>
 <br/>
+
+### Set you username to start a chat
+![Start](IMG/start.gif)
 
 ### Server less chat
-
 ![Chat](IMG/chat.gif)
 
 ### Video & Voice Calls
+![Call](IMG/call.gif)
 
-![Chat](IMG/chat.gif)
+## Description
+Introducing Xarp Spaces the peer-to-peer chat and file sharing tool that lets you securely connect with others directly without any servers!
+
+With this app, you can chat with friends and family, send unlimited size files, and even make video and voice calls.
+
+No worrying about server downtime, spying or file size limits – this app uses peer-to-peer technology to provide fast and reliable connections. Plus, with end-to-end encryption, you can be sure that your conversations and files are always secure. 
+
+Download the app today and share with me what you think.
 
 ## Features
 - WebRTC peer-to-peer technology for real-time communication
@@ -31,7 +40,10 @@
 - WebRTC
 
 ## How To Install
-You can get the app on [play store]()
+You can get the app on [play store]('https://drive.google.com/file/d/1PAptM7bXC0IewGYJCGKHofVUPlYMFLNx/view?usp=sharing')
 <br/>
 <br/>
 
+> I was the app's sole fullstack developer
+
+> I also designed the UI myself
