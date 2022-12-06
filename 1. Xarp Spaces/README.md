@@ -4,7 +4,13 @@
 > I also designed the UI myself
 <br/>
 <br/>
+
 ### Server less chat
+
+![Chat](IMG/chat.gif)
+
+### Video & Voice Calls
+
 ![Chat](IMG/chat.gif)
 
 ## Features
