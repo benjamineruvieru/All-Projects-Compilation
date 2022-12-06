@@ -3,7 +3,7 @@
 > I was the app's sole fullstack developer
 > I also designed the UI myself
 
-![Start Chat](start.gif)
+![Start Chat](IMG/start.gif)
 
 ## Features
 - WebRTC peer-to-peer technology for real-time communication
