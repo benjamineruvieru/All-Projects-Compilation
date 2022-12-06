@@ -3,7 +3,8 @@
 > I was the app's sole fullstack developer
 > I also designed the UI myself
 
-![App Screens](IMG/longmockup.png)
+![Start Chat](start.gif)
+
 ## Features
 - WebRTC peer-to-peer technology for real-time communication
 - Private, secure messaging with end-to-end encryption
