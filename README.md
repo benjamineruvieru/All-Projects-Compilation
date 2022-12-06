@@ -6,7 +6,7 @@ Please enjoy...
 ## Projects Directories
 Directories | Description
 ----------- | -----------
-[1. Xarp Spaces](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/1.%20Xarp%20Spaces%20Mobile%20App) | Chat, share files, & video call server-lessly with top-notch security.
+[1. Xarp Spaces](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/1.%20Xarp%20Spaces) | Chat, share files, & video call server-lessly with top-notch security.
 [2. Kicks Citi](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/2.%20Kicks%20Citi%20Mobile%20App) | An ecommerce sneakers store app
 [3. Ledger Score](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/2.%20Ledger%20Score%20Loan%20App) | A crypto loan app, with crypto wallets and real time coin price tracking
 <b>4. Fricaa </b>| A social media platform with real time messaging, video sharing and live streaming
