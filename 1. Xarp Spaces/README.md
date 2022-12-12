@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-### Set you username to start a chat
+### Set your username to start a chat
 ![Start](IMG/start.gif)
 
 ### Server less chat
@@ -21,6 +21,11 @@ With this app, you can chat with friends and family, send unlimited size files, 
 No worrying about server downtime, spying or file size limits – this app uses peer-to-peer technology to provide fast and reliable connections. Plus, with end-to-end encryption, you can be sure that your conversations and files are always secure. 
 
 Download the app today and share with me what you think.
+
+## How To Install
+You can get the app on [play store](https://drive.google.com/file/d/1PAptM7bXC0IewGYJCGKHofVUPlYMFLNx/view?usp=sharing)
+<br/>
+iOS Users: Get the app through TestFlight [Link](https://testflight.apple.com/join/FECZXGrw)
 
 ## Features
 - WebRTC peer-to-peer technology for real-time communication
@@ -39,11 +44,4 @@ Download the app today and share with me what you think.
 - Firebase
 - WebRTC
 
-## How To Install
-You can get the app on [play store](https://drive.google.com/file/d/1PAptM7bXC0IewGYJCGKHofVUPlYMFLNx/view?usp=sharing)
-<br/>
-<br/>
-
-> I was the app's sole fullstack developer
-
-> I also designed the UI myself
+> As the project sole fullstack developer, I was responsible for the entire development process and the design of the user interface.
