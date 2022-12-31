@@ -18,6 +18,14 @@ Directories | Description
 ## Projects Preview
 
 <details open>
+  <summary><b><u>Xarp Spaces</u></b></summary>
+
+  ### Server less chat
+![Chat](Xarp Spaces/IMG/chat.gif)
+
+  </details>
+
+<details open>
   <summary><b><u>Kicks Citi</u></b></summary>
 <img src="IMG/kicksciti.png" width="300" height="550">
   </details>
