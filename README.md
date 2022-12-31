@@ -17,8 +17,7 @@ Directories | Description
 
 ## Projects Preview
 
-<details open>
-  <summary><b><u>Xarp Spaces</u></b></summary>
+<b><u>Xarp Spaces</u></b>
 
   ### Server less chat
 ![Chat](Xarp Spaces/IMG/chat.gif)
