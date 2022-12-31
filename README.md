@@ -17,12 +17,11 @@ Directories | Description
 
 ## Projects Preview
 
-<b><u>Xarp Spaces</u></b>
+### Xarp Spaces
 
-  ### Server less chat
-![Chat](Xarp Spaces/IMG/chat.gif)
+### Server less chat
+![Chat](IMG/chat.gif)
 
-  </details>
 
 <details open>
   <summary><b><u>Kicks Citi</u></b></summary>
