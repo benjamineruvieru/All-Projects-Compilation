@@ -8,8 +8,8 @@ Directories | Description
 ----------- | -----------
 [1. Xarp Spaces](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/1.%20Xarp%20Spaces) | Chat, share files, & video call server-lessly with top-notch security.
 [2. Kicks Citi](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/2.%20Kicks%20Citi%20Mobile%20App) | An ecommerce sneakers store app
-[3. Morizon](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/3.%20Xarp%20Spaces) | Chat, share files, & video call server-lessly with top-notch security.
-[4. NYXEX Swap](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/4.%20Xarp%20Spaces) | Chat, share files, & video call server-lessly with top-notch security.
+[3. Morizon](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/3.%20Morizon) | Experience seamless control over your cryptocurrency portfolio, with features including multi-wallet management, salary payments, payment requests, buying and selling options, card payment integration, bank transfers, escrow services, joint accounts, and more.
+[4. NYXEX Swap](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/4.%20NYXEX%20Swap) | Effortlessly access and navigate multiple crypto exchanges, profit from automated liquidity pools, and stay on top of the market with real-time coin swapping and dynamic charts.
 [5. Ledger Score](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/5.%20Ledger%20Score%20Loan%20App) | A crypto loan app, with crypto wallets and real time coin price tracking
 <b>6. Fricaa </b>| A social media platform with real time messaging, video sharing and live streaming
 [7. Educura](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/7.%20Educura%20Mobile%20App) | This app helps teachers organise their work and connects parents to teachers
