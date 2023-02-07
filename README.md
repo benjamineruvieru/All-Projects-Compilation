@@ -27,7 +27,7 @@ Directories | Description
 
 <details open>
   <summary><b><u>Kicks Citi</u></b></summary>
-<img src="IMG/kicksciti.png" width="300" height="550">
+<img src="IMG/kicksciti.png" width="200" height="450">
   </details>
 
 
