@@ -8,11 +8,13 @@ Directories | Description
 ----------- | -----------
 [1. Xarp Spaces](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/1.%20Xarp%20Spaces) | Chat, share files, & video call server-lessly with top-notch security.
 [2. Kicks Citi](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/2.%20Kicks%20Citi%20Mobile%20App) | An ecommerce sneakers store app
-[3. Ledger Score](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/2.%20Ledger%20Score%20Loan%20App) | A crypto loan app, with crypto wallets and real time coin price tracking
-<b>4. Fricaa </b>| A social media platform with real time messaging, video sharing and live streaming
-[5. Educura](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/5.%20Educura%20Mobile%20App) | This app helps teachers organise their work and connects parents to teachers
-[6. Galb Logistics](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/6.%20Galb%20Logistics%20Mobile%20App) | A product delivery company mobile app with product tracking
-[7. Gigmoni](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/3.%20Gigmoni%20Mobile%20App) | An international payment solution
+[3. Morizon](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/3.%20Xarp%20Spaces) | Chat, share files, & video call server-lessly with top-notch security.
+[4. NYXEX Swap](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/4.%20Xarp%20Spaces) | Chat, share files, & video call server-lessly with top-notch security.
+[5. Ledger Score](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/5.%20Ledger%20Score%20Loan%20App) | A crypto loan app, with crypto wallets and real time coin price tracking
+<b>6. Fricaa </b>| A social media platform with real time messaging, video sharing and live streaming
+[7. Educura](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/7.%20Educura%20Mobile%20App) | This app helps teachers organise their work and connects parents to teachers
+[8. Galb Logistics](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/8.%20Galb%20Logistics%20Mobile%20App) | A product delivery company mobile app with product tracking
+[9. Gigmoni](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/9.%20Gigmoni%20Mobile%20App) | An international payment solution
 
 
 ## Projects Preview
