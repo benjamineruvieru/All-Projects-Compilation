@@ -30,8 +30,16 @@ Directories | Description
 <img src="IMG/kicksciti.png" width="300" height="550">
   </details>
 
+
   <details open>
-  <summary><b><u>Kicks Citi</u></b></summary>
+  <summary><b><u>Morizon</u></b></summary>
+<img src="IMG/morizon.png" width="300" height="550">
+<img src="IMG/dashboard.png" width="300" height="550">
+
+  </details>
+
+  <details open>
+  <summary><b><u>NYXEX Swap</u></b></summary>
 <img src="IMG/swap.png" width="300" height="550">
 <img src="IMG/swap2.png" width="300" height="550">
 

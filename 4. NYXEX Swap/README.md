@@ -17,6 +17,6 @@ Github Repo[Private]
 <img src="IMG/swap2.png" width="300" height="550">
 <img src="IMG/wallet.png" width="300" height="550">
 <img src="IMG/pool.png" width="300" height="550">
-<img src="IMG/connet.png" width="300" height="550">
+<img src="IMG/connect.png" width="300" height="550">
 <img src="IMG/profile.png" width="300" height="550">
 </p>
