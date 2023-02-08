@@ -30,6 +30,13 @@ Directories | Description
 <img src="IMG/kicksciti.png" width="300" height="550">
   </details>
 
+  <details open>
+  <summary><b><u>Kicks Citi</u></b></summary>
+<img src="IMG/swap.png" width="300" height="550">
+<img src="IMG/swap2.png" width="300" height="550">
+
+  </details>
+
 
 <details open>
   <summary><b><u>Ledger Score</u></b></summary>
