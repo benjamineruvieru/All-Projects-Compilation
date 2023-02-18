@@ -23,9 +23,9 @@ No worrying about server downtime, spying or file size limits – this app uses 
 Download the app today and share with me what you think.
 
 ## How To Install
-You can get the app on [play store](https://play.google.com/store/apps/details?id=com.xarpspaces)
+You can get the app on [Play Store](https://play.google.com/store/apps/details?id=com.xarpspaces)
 <br/>
-iOS Users: Get the app through TestFlight [Link](https://testflight.apple.com/join/FECZXGrw)
+iOS Users: Get the app on [App Store](https://apps.apple.com/app/xarp-spaces/id6444863755)
 
 ## Features
 - WebRTC peer-to-peer technology for real-time communication
