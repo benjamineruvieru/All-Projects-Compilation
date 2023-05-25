@@ -62,6 +62,14 @@ Directories | Description
 <img src="2. Ledger Score Loan App/IMG/coinpage.png" width="300" height="550">
 </p>
   </details>
+
+  <details open>
+  <summary><b><u>Lancio Carriera</u></b></summary>
+<p float="left">
+<img src="IMG/jobsocial1.png" width="300" height="550">
+<img src="jobsocial3.png" width="300" height="550">
+</p>
+  </details>
   
   
 <details open>
