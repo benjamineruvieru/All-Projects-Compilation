@@ -15,6 +15,7 @@ Directories | Description
 [7. Educura](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/7.%20Educura%20Mobile%20App) | This app helps teachers organise their work and connects parents to teachers
 [8. Galb Logistics](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/8.%20Galb%20Logistics%20Mobile%20App) | A product delivery company mobile app with product tracking
 [9. Gigmoni](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/9.%20Gigmoni%20Mobile%20App) | An international payment solution
+[10. Nvestos](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/10.%20Nvestos) | 
 
 
 ## Projects Preview
@@ -25,10 +26,14 @@ Directories | Description
 ![Chat](IMG/chat.gif)
 
 
-<details open>
-  <summary><b><u>Kicks Citi</u></b></summary>
-<img src="IMG/kicksciti.png" width="300" height="550">
+  <details open>
+  <summary><b><u>Nvestos</u></b></summary>
+<img src="IMG/nvestosl.png" width="300" height="550">
+<img src="IMG/nvestohome.png" width="300" height="550">
+
   </details>
+
+
 
 
 
@@ -46,6 +51,12 @@ Directories | Description
 <img src="IMG/dashboard.png" width="300" height="550">
 
   </details>
+
+  <details open>
+  <summary><b><u>Kicks Citi</u></b></summary>
+<img src="IMG/kicksciti.png" width="300" height="550">
+  </details>
+
 
   <details open>
   <summary><b><u>NYXEX Swap</u></b></summary>
