@@ -16,8 +16,9 @@ Directories | Description
 [8. Galb Logistics](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/8.%20Galb%20Logistics%20Mobile%20App) | A product delivery company mobile app with product tracking
 [9. Gigmoni](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/9.%20Gigmoni%20Mobile%20App) | An international payment solution
 [10. Nvestos](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/10.%20Nvestos) | 
-
-
+[11. Lancio Carriera](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/11.%20Lancio%20Carriera) |
+[12. Petal Rescue](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/12.%20Petal%20Rescue) |
+[13. ChitChat](https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/10.%20Nvestos) |
 ## Projects Preview
 
 ### Xarp Spaces
