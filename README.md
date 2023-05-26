@@ -71,7 +71,7 @@ Directories | Description
   <summary><b><u>Ledger Score</u></b></summary>
   <p float="left">
 <img src="IMG/ledgerscore.png" width="300" height="550">
-<img src="2. Ledger Score Loan App/IMG/coinpage.png" width="300" height="550">
+<img src="5. Ledger Score Loan App/IMG/coinpage.png" width="300" height="550">
 </p>
   </details>
 
@@ -79,7 +79,7 @@ Directories | Description
   <summary><b><u>Lancio Carriera</u></b></summary>
 <p float="left">
 <img src="IMG/jobsocial1.png" width="300" height="550">
-<img src="jobsocial3.png" width="300" height="550">
+<img src="IMG/jobsocial3.png" width="300" height="550">
 </p>
   </details>
   
