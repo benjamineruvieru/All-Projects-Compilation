@@ -20,7 +20,7 @@
 - Sirv - Image Hosting
 
 ## How To Install
-You can get the app on [play store](https://play.google.com/store/apps/details?id=com.my.ben.kicksciti)
+You can get the app [here](https://drive.google.com/file/d/1YUf_gXDTNZGg37_CdQOTJXyCS2771bxI/view?usp=sharing)
 <br/>
 <br/>
 [Github Repo](
