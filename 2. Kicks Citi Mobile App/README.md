@@ -1,9 +1,11 @@
 # Kicks Citi
-### An online footwear store
+### An E-Commerce store for Shoe Enthusiasts.
 > I was the app's sole fullstack developer
 > I also designed the UI myself
 
 ![App Screens](IMG/longmockup.png)
+Kicks Citi is designed to be a one-stop destination for individuals who are passionate about footwear. Whether you're a sneakerhead, a fashion-forward trendsetter, or someone simply in need of comfortable and stylish shoes, Kicks Citi has got you covered
+
 ## Features
 - Add items to your cart or favorites
 - Browse a selection of products
@@ -20,7 +22,7 @@
 - Sirv - Image Hosting
 
 ## How To Install
-You can get the app [here](https://drive.google.com/file/d/1YUf_gXDTNZGg37_CdQOTJXyCS2771bxI/view?usp=sharing)
+You can get the app [here](https://play.google.com/store/apps/details?id=com.kicksciti.android)
 <br/>
 <br/>
 [Github Repo](
