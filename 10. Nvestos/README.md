@@ -1,9 +1,10 @@
 # Nvestos
-### An international payment solution
+### This is a free community for traders and copy traders.
 
 ## Features
 
 ## How To Install
+Get on [Play Store](https://play.google.com/store/apps/details?id=com.nvestos)
 
 <br/>
 <br/>
