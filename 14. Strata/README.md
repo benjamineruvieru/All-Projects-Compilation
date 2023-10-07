@@ -8,9 +8,10 @@
 ## Technologies Used
 
 ## How To Install
-You can get the app on [Play Store](https://play.google.com/store/apps/details?id=com.strataexc)
-<br/>
 iOS Users: Get the app on [App Store](https://apps.apple.com/ng/app/strata-exc-white-label-builder/id6443906668)
+<br/>
+Android Users: [Play Store](https://play.google.com/store/apps/details?id=com.strataexc)
+
 
 <br/>
 <br/>
