@@ -11,11 +11,8 @@ To install Chit-Chat, follow the steps below:
 
 <br/>
 <br/>
-[Github Repo](
-https://github.com/benjamineruvieru/chitchat)
+[Github Repo](https://github.com/benjamineruvieru/chitchat)
 
-
-<p float="left">
+## SCREENSHOTS
 ![Chit-Chat Screenshot 1](https://user-images.githubusercontent.com/99836377/232632148-6f6a01d8-de42-43a2-a289-67fa2f1e234a.png)
 ![Chit-Chat Screenshot 2](https://user-images.githubusercontent.com/99836377/232632280-ae124d9c-2629-4731-bbdf-da45cb31149b.png)
-</p>
