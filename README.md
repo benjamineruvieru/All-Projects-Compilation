@@ -13,7 +13,15 @@ Please feel free to explore and enjoy the compilation of my work.
 
 ## **Personal Projects**
 
-
+<b><u><a href="https://github.com/benjamineruvieru/react-native-credentials-manager">React Native Credentials Manager</a></u></b>
+<br/>
+<b><u><a href="https://github.com/benjamineruvieru/react-native-pdf-from-image">React Native Pdf From Image</a></u></b>
+<br/>
+<b><u><a href="https://github.com/benjamineruvieru/rn-text-touch-highlight">React Native Text Touch Highlighter</a></u></b>
+<br/>
+<b><u><a href="https://github.com/benjamineruvieru/react-native-type-animation">React Native Type Animation</a></u></b>
+<br/>
+<b><u><a href="https://github.com/mRaydio/mRaydio-Mobile">mRaydio</a></u></b>
 
 <details open>
 <summary><b><u><a href="https://github.com/benjamineruvieru/All-Projects-Compilation/tree/main/1.%20Xarp%20Spaces">Xarp Spaces</a></u></b></summary>
